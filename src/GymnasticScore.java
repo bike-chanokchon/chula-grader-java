@@ -28,8 +28,7 @@ public class GymnasticScore {
 			if (number != min && number != max) total += number;
 		}
 		
-		System.out.println(Math.floor((total / 2.0d) * 100) / 100);
-		System.out.printf("%.2f", ((total / 2.0d) * 100) / 100);
+		System.out.println(Math.round((total / 2.0d) * 100) / 100.0d);
 		
 	}
 }
