@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Average {
 	public static void main(String[] args) {
+		// https://2110104.nattee.net/tasks/download/1294/03_Loop_11.pdf
 		Scanner sc = new Scanner(System.in);
 		
 		double input = 0.0d;
