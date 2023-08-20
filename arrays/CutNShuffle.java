@@ -2,6 +2,7 @@ package arrays;
 
 import java.util.Scanner;
 
+// https://2110104.nattee.net/tasks/download/1312/04_Array_22.pdf
 public class CutNShuffle {
     public static void main(String[] args) {
         int numberOfCards = 0;
