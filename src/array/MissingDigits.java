@@ -2,6 +2,7 @@ package array;
 
 import java.util.Scanner;
 
+// https://2110104.nattee.net/tasks/download/1308/04_Array_11.pdf
 public class MissingDigits {
 
 	public static void main(String[] args) {
